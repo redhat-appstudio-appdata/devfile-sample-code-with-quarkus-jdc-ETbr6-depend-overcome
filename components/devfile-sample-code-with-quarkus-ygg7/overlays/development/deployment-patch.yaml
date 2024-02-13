@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: devfile-sample-code-with-quarkus-ygg7
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
